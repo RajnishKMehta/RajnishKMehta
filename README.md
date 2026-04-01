@@ -2,12 +2,6 @@
 
 ### A Learning developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RajnishKMehta&label=Profile views&color=0e75b6&style=flat" alt="RajnishKMehta" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RajnishKMehta" alt="RajnishKMehta" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/RajnishKMehta" target="blank"><img src="https://img.shields.io/twitter/follow/RajnishKMehta?logo=twitter&style=for-the-badge" alt="RajnishKMehta" /></a> </p>
-
 - 🔭 I'm currently working on **Arnyt, a real-time chat app**
 
 - 🌱 I'm currently learning **TypeScript, React netive and postgreSQL**
