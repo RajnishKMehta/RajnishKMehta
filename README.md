@@ -10,6 +10,7 @@
 
 - ⚡ Fun fact **I use AI to generate code, then analyze its logic, flow, and optimize it myself**
 
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/RajnishKMehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RajnishKMehta" height="30" width="40" /></a>
@@ -41,7 +42,7 @@
 <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/RajnishKMehta/images/refs/heads/main/logos/react-native.svg" alt="reactnative" width="40" height="40"/> 
 </p>
-
+-->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RajnishKMehta&show_icons=true&locale=en" alt="RajnishKMehta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajnishKMehta&" alt="RajnishKMehta" /></p>
