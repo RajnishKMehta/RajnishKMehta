@@ -10,7 +10,13 @@
 
 - ⚡ Fun fact **I use AI to generate code, then analyze its logic, flow, and optimize it myself**
 
-<!--
+<div align="center">
+  
+[![Check out RajnishKMehta's profile on stardev.io](https://stardev.io/developers/RajnishKMehta/badge/languages/global.svg)](https://stardev.io/developers/RajnishKMehta)
+
+</div>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/RajnishKMehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RajnishKMehta" height="30" width="40" /></a>
@@ -42,8 +48,15 @@
 <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/RajnishKMehta/images/refs/heads/main/logos/react-native.svg" alt="reactnative" width="40" height="40"/> 
 </p>
--->
+
+### Trophies
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=RajnishKMehta&theme=nord&row=1&column=6)
+
+</div>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RajnishKMehta&show_icons=true&locale=en" alt="RajnishKMehta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajnishKMehta&" alt="RajnishKMehta" /></p>
+<p><img src="https://streak-stats.demolab.com?user=RajnishKMehta&theme=rose&border_radius=25&locale=mai" alt="GitHub Streak" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajnishKMehta&show_icons=true&locale=en&layout=compact" alt="RajnishKMehta" /></p>
