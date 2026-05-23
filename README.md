@@ -58,5 +58,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RajnishKMehta&show_icons=true&locale=en" alt="RajnishKMehta" /></p>
 
-<p><img src="https://streak-stats.demolab.com?user=RajnishKMehta&theme=rose&border_radius=25&locale=mai" alt="GitHub Streak" /></p>
+<p align="center" >
+<img src="https://streak-stats.demolab.com?user=RajnishKMehta&theme=transparent&hide_border=true&border_radius=100&card_width=200&card_height=200&sideNums=EB5454&sideLabels=FFAE59&dates=EB9260&hide_current_streak=true&hide_longest_streak=true&locale=mai" alt="GitHub Streak" /> <br> <img src="https://streak-stats.demolab.com?user=RajnishKMehta&theme=buefy&border_radius=25&dates=65B9EB&background=00000000&hide_current_streak=true" alt="GitHub Streak" />
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajnishKMehta&show_icons=true&locale=en&layout=compact" alt="RajnishKMehta" /></p>
