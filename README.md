@@ -12,7 +12,10 @@
 
 <div align="center">
   
-[![Check out RajnishKMehta's profile on stardev.io](https://stardev.io/developers/RajnishKMehta/badge/languages/global.svg)](https://stardev.io/developers/RajnishKMehta)
+[![Check out RajnishKMehta's profile on stardev.io](https://github.com/user-attachments/assets/86c864e0-7542-4f95-a626-42b2e810e603)](https://stardev.io/developers/RajnishKMehta)
+<!--
+https://stardev.io/developers/RajnishKMehta/badge/languages/global.svg
+-->
 
 </div>
 
