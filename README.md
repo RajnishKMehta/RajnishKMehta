@@ -2,7 +2,7 @@
 
 ### A Learning developer
 
-- 🔭 I'm currently working on **Arnyt, a real-time chat app** (hobby project)
+<!-- - 🔭 I'm currently working on **Arnyt, a real-time chat app** (hobby project) -->
 
 - 🌱 I'm currently learning **TypeScript, React netive and postgreSQL**
 
