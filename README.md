@@ -4,7 +4,7 @@
 
 <!-- - 🔭 I'm currently working on **Arnyt, a real-time chat app** (hobby project) -->
 
-- 🌱 I'm currently learning **C++ (officially), Kotlin, TypeScript, CI/CD**
+- 🌱 I'm currently learning **C++ (officially😁), Kotlin, TypeScript, CI/CD**
 
 - 📫 How to reach me **RajnishKMehta@proton.me**
 
